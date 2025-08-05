@@ -14,11 +14,12 @@
 ## 🚀 **GithubStatus**
 
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 20px;">
   <a href="https://github.com/JoanaPixel" target="_blank">
-    <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=JoanaPixel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoanaPixel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/JoanaPixel" target="_blank">
-    <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanaPixel&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanaPixel&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
+
