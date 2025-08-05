@@ -10,6 +10,8 @@
 - 😄 Pronomes: she/her/they
 - ⚡ Fato curioso: já criei dois patinhos dentro de casa até crescerem
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <div>
   <a href="https://github.com/JoanaPixel" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoanaPixel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
