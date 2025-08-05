@@ -12,7 +12,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## **Sobre mim**
+## 📍 **Sobre mim**
 
 Sou uma estudante interessada e inserida no meio da tecnologia desde muito pequena! Seja com jogos ou notícias, sempre estive ligada e atenta. Busco aprimorar minhas habilidades em código e desenvolvimento de aplicações. 
 
@@ -34,3 +34,22 @@ Sou uma estudante interessada e inserida no meio da tecnologia desde muito peque
     </td>
   </tr>
 </table>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## ✨ **Tecnologias utilizadas
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" />
+</div>
+
