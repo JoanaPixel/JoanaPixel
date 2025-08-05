@@ -54,3 +54,4 @@ Sou uma estudante interessada e inserida no meio da tecnologia desde muito peque
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![Snake animation](https://github.com/JoanaPixel/JoanaPixel/blob/output/github-contribution-grid-snake.svg)
