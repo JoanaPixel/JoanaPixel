@@ -37,7 +37,7 @@ Sou uma estudante interessada e inserida no meio da tecnologia desde muito peque
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## ✨ **Tecnologias utilizadas
+## ✨ **Tecnologias utilizadas**
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" />
@@ -51,4 +51,6 @@ Sou uma estudante interessada e inserida no meio da tecnologia desde muito peque
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" />
 </div>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
