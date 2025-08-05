@@ -11,7 +11,7 @@
 - ⚡ Fato curioso: já criei dois patinhos dentro de casa até crescerem
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-##🚀 **GithubStatus**
+## 🚀 **GithubStatus**
 
 <div>
   <a href="https://github.com/JoanaPixel" target="_blank">
