@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bem-vindo(a) ao meu perfil! Me chamo Joana
 
-<!--
-**JoanaPixel/JoanaPixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente sou estudante full-stack no curso de Desenvolvimento de Sistemas CENTROWEG
+- 🌱 Estou sempre em busca de novos conhecimentos e estou disposta a ouvir caso tenha algum conselho ou dica!
+- 👯 Eu procuro colaborar com todos os tipos de pessoas, indiferente da língua
+- 🤔 Busco auxílio para aprender mais sobre front-end e abranger o'que já sei
+- 💬 Sinta-se livre para me perguntar quaisquer coisa
+- 📫 Contate-me no email: joanajensenschifter24@gmail.com
+- 😄 Pronomes: she/her/they
+- ⚡ Fato curioso: já criei dois patinhos dentro de casa até crescerem
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://https://github.com/rafabellerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-rafaballerini&layout-compact&langs_count-16&theme-dracula"/>
+</div>
