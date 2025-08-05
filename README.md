@@ -58,5 +58,5 @@ Sou uma estudante interessada e inserida no meio da tecnologia desde muito peque
 
 
 <p align="center">
-  <img src="https://media.tenor.com/fqGvguQ6JqIAAAAC/madoka-magica-anime.gif" alt="Madoka GIF" width="300"/>
+  <img src="[https://media.tenor.com/fqGvguQ6JqIAAAAC/madoka-magica-anime.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNlcGM4Y2l6dW52azZ2bjI1bTZib203OGxldnU1c3NocTV2ampkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hQBN5vPDbw03S/giphy.gif)" alt="REI GIF" width="300"/>
 </p>
