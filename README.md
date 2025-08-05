@@ -57,4 +57,6 @@ Sou uma estudante interessada e inserida no meio da tecnologia desde muito peque
 ## 📸 **Espero que possamos colaborar juntos!**
 
 
-<div class="tenor-gif-embed" data-postid="14845953528935767622" data-share-method="host" data-aspect-ratio="0.833333" data-width="100%"><a href="https://tenor.com/view/madoka-magica-anime-cute-madoka-kaname-gif-14845953528935767622">Madoka Magica Anime Sticker</a>from <a href="https://tenor.com/search/madoka+magica-stickers">Madoka Magica Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://media.tenor.com/fqGvguQ6JqIAAAAC/madoka-magica-anime.gif" alt="Madoka GIF" width="300"/>
+</p>
