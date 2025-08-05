@@ -57,5 +57,6 @@ Sou uma estudante interessada e inserida no meio da tecnologia desde muito peque
 ## 📸 **Espero que possamos colaborar juntos!**
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/hQBN5vPDbw03S/giphy.gif" alt="Rei GIF" width="600">
+  <img src="https://media0.giphy.com/media/Jfpe1l2ji2lB6/giphy.gif" alt="Rei gif GIF" width="500">
 </p>
+
